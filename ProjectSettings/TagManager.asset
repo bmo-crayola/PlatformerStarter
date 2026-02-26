@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Brick
   - Question
+  - Water
+  - Goal
   layers:
   - Default
   - TransparentFX
